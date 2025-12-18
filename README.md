@@ -1,3 +1,5 @@
+This project was completed on 25/06/2025 and was uploaded at a later date on 18/12/2025.
+
 # Quote-and-hashtag-generator-website--using-Flask
 A Flask-based web app that generates Instagram-ready quotes and hashtags from user input, designed with a clean UI and demo-ready output.
 
