@@ -23,8 +23,6 @@ This project is designed as a **demo-ready portfolio application** with a minima
 - **Flask**
 - **HTML5**
 - **CSS3**
-- **Jinja2 Templates**
-
 
 ## ⚙️ How It Works
 
